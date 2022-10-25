@@ -1,0 +1,49 @@
+.index_h1 {
+    background-color:bisque;
+    color: black;
+    font-weight: 900;
+    font-size: x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.index_links,
+.h1
+ {
+    background-color:antiquewhite;
+    color: hsl(0, 0%, 0%);
+    font-weight: 300;
+    font-size: large;
+    font-family:cursive, Arial, Helvetica, sans-serif;
+}
+
+.ingredients {
+    background-color:darkturquoise;
+    color:deeppink;
+    font-weight: 200;
+    font-size: medium;
+    font-family:cursive, Arial, Helvetica, sans-serif;
+}
+
+.steps {
+    background-color:rgba(5, 152, 155, 0.863);
+    color:rgb(131, 4, 57);
+    font-weight: 200;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color:rgb(0, 41, 39);
+    font-weight: 500;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+        background-color:rgb(139, 255, 211);
+        color:rgb(1, 10, 66);
+        font-weight: 300;
+        font-size: medium;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
